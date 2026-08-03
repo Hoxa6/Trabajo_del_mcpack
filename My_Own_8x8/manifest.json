@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Texturas minimalistas, versión 1.1.18. Reduce la resolucion de forma elegante para mejorar las fps en juego, se mantiene la misma escencia y colores de las texturas vanilla. Licencia: CC BY-SA 4.0 (Ver README).",
+        "description": "Texturas minimalistas, versión 1.1.19. Reduce la resolucion de forma elegante para mejorar las fps en juego, se mantiene la misma escencia y colores de las texturas vanilla. Licencia: CC BY-SA 4.0 (Ver README).",
         "name": "Cheap_8x8",
         "uuid": "4f2a1b3c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
-        "version": [1, 1, 18],
+        "version": [1, 1, 19],
         "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
-            "description": "Módulo de recursos de bajo impacto, versión inicial 1.1.18",
+            "description": "Módulo de recursos de bajo impacto, versión inicial 1.1.19",
             "type": "resources",
             "uuid": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-            "version": [1, 1, 18]
+            "version": [1, 1, 19]
         }
     ],
     "metadata": {
