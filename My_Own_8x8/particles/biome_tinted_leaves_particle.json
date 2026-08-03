@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.60",
+  "particle_effect": {
+    "description": {
+      "identifier": "minecraft:biome_tinted_leaves_particle",
+      "basic_render_parameters": {
+        "material": "particles_alpha",
+        "texture": "textures/particle/biome_tinted_leaves_atlas"
+      }
+    },
+    "components": {}
+  }
+}

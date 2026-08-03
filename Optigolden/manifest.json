@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Texturas optimizadas para granja de oro en base a portales intermitentes.",
+        "name": "Optigolden",
+        "uuid": "56269d21-a397-451f-9b9f-63b5c0107faa",
+        "version": [0, 0, 2],
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "Módulo de recursos de bajo impacto.",
+            "type": "resources",
+            "uuid": "da62a3d6-47a1-4ef5-a02e-251ba955a63c",
+            "version": [0, 0, 2]
+        }
+    ],
+    "metadata": {
+        "authors": ["Hoxa6"],
+        "license": "Personal"
+    }
+}
